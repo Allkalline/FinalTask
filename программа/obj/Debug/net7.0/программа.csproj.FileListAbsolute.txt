@@ -1,0 +1,15 @@
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\bin\Debug\net7.0\программа.exe
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\bin\Debug\net7.0\программа.deps.json
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\bin\Debug\net7.0\программа.runtimeconfig.json
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\bin\Debug\net7.0\программа.dll
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\bin\Debug\net7.0\программа.pdb
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.csproj.AssemblyReference.cache
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.AssemblyInfoInputs.cache
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.AssemblyInfo.cs
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.csproj.CoreCompileInputs.cache
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.dll
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\refint\программа.dll
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.pdb
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\программа.genruntimeconfig.cache
+C:\Users\dimav\Documents\Учеба\Первая четверть\Итоговая работа\программа\obj\Debug\net7.0\ref\программа.dll
